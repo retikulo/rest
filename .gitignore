@@ -1,0 +1,8 @@
+# intellij
+.idea/
+*.iml/
+
+# sbt
+project/project/
+project/target/
+target/
